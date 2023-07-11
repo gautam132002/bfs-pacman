@@ -1,6 +1,6 @@
 # Pacman Game with Breadth First Search Algorithm
 
-This is a simple Pacman game implementation that demonstrates the Breadth First Search (BFS) algorithm. The game features a stationary maze with two stationary enemies and two food objects. The objective is to use BFS to move the main character (Pacman) towards the food objects without contacting the enemies. 
+This is a simple Pacman game implementation that demonstrates the Breadth First Search (BFS) algorithm. The game features a stationary maze with two stationary enemies and one,two food objects. The objective is to use BFS to move the main character (Pacman) towards the food objects without contacting the enemies. 
 
 ## Game Rules
 
