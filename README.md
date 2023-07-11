@@ -38,6 +38,8 @@ The project consists of two program files:
 
 Note: Make sure to have Python installed on your system before running the game.
 
+![Screenshot at 2023-07-11 05-49-12](https://github.com/gautam132002/bfs-pacman/assets/68372911/b941b0d0-bda4-4ca0-bcbb-4f5fdfe918c8)
+
 ## Gameplay
 
 1. The main character (Pacman) starts at a random position in the maze.
